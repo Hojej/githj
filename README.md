@@ -1,1 +1,1 @@
-This is my new repo on GitHub
+this is v2 of the repo
